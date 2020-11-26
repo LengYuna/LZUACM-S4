@@ -1,19 +1,3 @@
-<style>
-    *{
-        font-family:Consolas,微软雅黑;
-    }
-    a{
-        text-decoration:none;
-        color:#51BFBA
-    }
-    label{
-        color: #FFF;
-        background-color: #66b2e4;
-        padding:2px 5px;
-        margin:0px 2px;
-        border-radius:5px;
-    }
-</style>
 <h3 style="text-align:center;font-size:35px">兰州大学第四届程序设计大赛题解</h3>
 <h3 style="text-align:center;font-size:25px">Solutions of The 4th Lanzhou University Programming Contest</h3>
 <h3 style="text-align:center;font-size:18px">2020.11.14</h4>
@@ -55,10 +39,6 @@
 **为了响应教育部提出“新工科”教育战略，培养和展示我校大学生分析、解决问题和计算机编程的能力，鼓励和培养创新思维，丰富校园学术气氛，造就具有综合素质的面向 21 世纪的计算机人才，兰州大学于 2020 年 11 月 14 日举办兰州大学第四届程序设计大赛，面向兰州大学全体本科学生。**
 
 <center>（感谢兰州大学信息科学与工程学院马俊老师提供的技术支持）
-
-
-
-<center><span style="background-color:#19be6b;color:white;border-radius:5px;padding:0px 8px;margin:2px">Accepted</span><span style="background-color:#ed3f14;color:white;border-radius:5px;padding:0px 8px;margin:2px">Wrong Answer</span><span style="background-color:#ff6104;color:white;border-radius:5px;padding:0px 8px;margin:2px">Runtime Error</span><span style="background-color:#ffa100;color:white;border-radius:5px;padding:0px 8px;margin:2px">Time Limit Exceeded</span><br /><span style="background-color:#fff400;color:white;border-radius:5px;padding:0px 8px;margin:2px">Memory Limit Exceeded</span><span style="background-color:#8c919d;color:white;border-radius:5px;padding:0px 8px;margin:2px">Compile Error</span>
 
 <div style="page-break-after:always"></div>
 
